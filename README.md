@@ -1,5 +1,6 @@
-# Schoolify
+# oKnow
 
-My personal blog.
+##Prsonal Blog.
 
-To run locally, rails server, then open https://localhost:3000.
+### Run
+To run locally, ```rails server```, then open https://localhost:3000.
